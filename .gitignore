@@ -1,0 +1,14 @@
+
+sha256_worker
+sha256counter
+*.o
+*.out
+*.exe
+generated_data/
+dataset/
+benchmarks/dataset/
+*.sha256
+*.bin
+*.dat
+__pycache__/
+*.pyc
